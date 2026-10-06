@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e8f5e9;
+}
+
+.tech {
+    text-align: center;
+    background-color: #2e7d32;
+    color: white;
+    padding: 50px 20px;
+    margin: 50px auto;
+    width: 70%;
+    border-radius: 15px;
+}
+
+.tech h1 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.tech p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.tech a {
+    display: inline-block;
+    text-decoration: none;
+    color: #2e7d32;
+    background-color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 8px;
+}
+
+.tech a:hover {
+    background-color: #a5d6a7;
+}
